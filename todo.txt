@@ -1,5 +1,6 @@
 Conversion function needed:
 - Dollars to cents
 - gallones to liters
-- foot to inches
+- feet to inches
+- degrees to radians
 
